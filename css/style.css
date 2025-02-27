@@ -50,14 +50,14 @@
   }
   
   .hero {
-    background: url('../img/hero-image.webp') no-repeat center center/cover fixed;
+    background: url('../images/1.jpg') no-repeat center center/cover fixed;
     padding: 5em 0;
-    color: #6d2a2a;
+    color: #ffffff;
     text-align: center;
   }
   .hero h1 {
     font-size: 3em;
-    margin-bottom: 0.5em;
+    margin-bottom: 0;
   }
   .hero p {
     font-size: 1.2em;
@@ -92,7 +92,7 @@
     margin-top: 0.5em;
     font-weight: bold;
     text-align: right;
-    color: #555;
+    color: #423b3b;
   }
   
   .menu-section {
@@ -156,7 +156,7 @@
   .contact-form button:hover {
     background: #A52A2A; 
   }
-  
+
   footer {
     background: #333;
     color: #fff;
